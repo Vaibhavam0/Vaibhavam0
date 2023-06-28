@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Vaibhavam_Mishra
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning C++
-- 💞️ I am looking for Internship . 
+ <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML">
 - 
 
 <!---
